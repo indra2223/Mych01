@@ -1,17 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="6TVTelugu.in@SD",6 TV Telugu (720p)
-https://cdn-1.pishow.tv/live/232/master.m3u8
-#EXTINF:-1 tvg-id="7SMusic.in",7S Music (576p) [Not 24/7]
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1 tvg-id="9XJhakaas.in",9x Jhakaas
-https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="9XTashan.in",9X Tashan
-https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="9XM.in",9XM (576p)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
-#EXTINF:-1 tvg-id="10TV.in@SD",10 TV (720p)
-https://cdn-1.pishow.tv/live/391/master.m3u8
-#EXTINF:-1 tvg-id="99TV.in@SD",99TV (720p)
-https://cdn-1.pishow.tv/live/1211/master.m3u8
-#EXTINF:-1 tvg-id="A1TVRajasthan.in@SD",A1 TV Rajasthan (576p)
-https://yuppftalive.akamaized.net/080823/a1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad@Web",Andorra TV (1080p)
+https://live-edge-eu-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C022/live-3000/index.m3u8
+#EXTINF:-1 tvg-id="AndorraTV.ad",ATV (720p)
+https://videos.rtva.ad/live/rtva/playlist.m3u8
